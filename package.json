@@ -1,0 +1,19 @@
+{
+  "name": "gaoptout",
+  "version": "1.0.2",
+  "description": "## Basic usage ##",
+  "main": "ApGaOptOut.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intemrundia-de/GaOptOut.git"
+  },
+  "author": "Andreas Spahr<andreas@intermundia.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intermundia-de/GaOptOut/issues"
+  },
+  "homepage": "https://github.com/intermundia-de/GaOptOut#readme"
+}
